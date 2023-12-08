@@ -3,3 +3,5 @@
 3. streamlit run main.py
 4. main.py is for linux/mac and main-windows.py is for windows users
 5. Instructor and Huggingface is needed if you want an alternative to openai's vectorstore
+
+![alt text](https://github.com/muratone/multiPDF/blob/main/screen.png?raw=true)
